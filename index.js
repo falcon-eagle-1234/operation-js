@@ -88,8 +88,12 @@ console.log("volume "+volume)
 console.log("hureenii urt "+hureeniiUrt)
 
 const too=123;
-const first=parseInt(too/100)
+const first=parseInt(too/100);
 console.log(first+"ehnii too");
+
+const tsipr=5234;
+const EhniiToo=tsipr/1000;
+console.log(Math.floor(EhniiToo))
 
 
 
